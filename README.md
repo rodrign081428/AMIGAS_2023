@@ -40,7 +40,7 @@ ___
 ___
 
 <left><h3> Modules </h3></left>
-| Date (MST) | Location | Description | Link |
+| Date (PST) | Location | Description | Link |
 | --------| -------- | -------- | -------- |
 | July 10 | In person | Statistical Foundations: From Theory to Practice (Instructor: Vianey Leos Barajas) | TBA | 
 | July 11 | In person | Data Driven Mathematical Models and Simulation Techniques (Instructor: Keisha Cook) | TBA | 
