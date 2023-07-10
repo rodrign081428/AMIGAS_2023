@@ -1,0 +1,9 @@
+Animals use various processes to inform themselves about their environment and make decisions about how to move and form their territory. 
+In some cases, populations inform themselves of competing groups through observations at distances, scent markings, or memories of locations 
+where an individual has encountered competing populations. As the process of gathering this information is inherently nonlocal, 
+mechanistic models that include nonlocal terms have been proposed to investigate the movement of species. Naturally, these models present 
+analytical and computational challenges. In this work we study a multi-species model with nonlocal advection. We introduce an efficient 
+numerical scheme using spectral methods to compute solutions of a nonlocal reaction-advection-diffusion system for a large number of 
+interacting species. Moreover, we investigate the effects that the parameters and interaction potentials have on the population densities. 
+Finally, we propose a method using maximum likelihood estimation to determine the most important factors driving species’ movements and test 
+this method using synthetic data.
